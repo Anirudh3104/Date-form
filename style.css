@@ -1,0 +1,16 @@
+div{
+    height: 300px;
+    width:300px;
+    background-color: bisque;
+    text-align: center;
+}
+p{
+    margin:0;
+}
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
